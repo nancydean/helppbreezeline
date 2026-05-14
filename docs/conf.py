@@ -25,4 +25,4 @@ html_context = {
 }
 
 # Base URL for sitemap
-html_baseurl = 'https://helpmackeeper.readthedocs.io/en/latest/'
+html_baseurl = 'https://breezeline.readthedocs.io/en/latest/'
